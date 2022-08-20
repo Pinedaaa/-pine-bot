@@ -1,0 +1,7 @@
+{
+    "token": "MTAwOTkyNjA1MTQzMTk4NTE4Mw.GdGCrU.aRxjdZj68wXUFlT0A7HN9rpGOfYIEQ5LwCKoVQ",
+    "prefix": "..",
+    "mongodb": "mongodb+srv://pineda:2yaA44sp2iXPHr8g@cluster0.irektuy.mongodb.net/BotPine?retryWrites=true&w=majority",
+    "ownerIDS": ["282942681980862474"],
+    "color": "#ff0000"
+}
