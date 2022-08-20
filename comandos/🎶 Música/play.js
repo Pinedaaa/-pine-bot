@@ -1,6 +1,6 @@
 module.exports = {
     name: "play",
-    aliases: ["reproducir"],
+    aliases: ["p"],
     desc: "Sirve para reproducir una canción",
     run: async (client, message, args, prefix) => {
         //comprobaciones previas
